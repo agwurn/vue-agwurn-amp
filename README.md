@@ -2,6 +2,7 @@
 
 My personal side-project, a playable online guitar amp and effects.
 
+[🔗 Link to Demo](https://ag-web-amp-mini.netlify.app/)
 ![image](./amp_demo_main.png)
 ![image](./amp_demo_presetList.png)
 
